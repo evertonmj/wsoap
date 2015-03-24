@@ -12,7 +12,7 @@ class WebServiceController extends Controller {
 
     /**
     * Retorna um hello world!
-    * return string
+    * @return string
     * @soap
     */
     public function helloWorld() {
